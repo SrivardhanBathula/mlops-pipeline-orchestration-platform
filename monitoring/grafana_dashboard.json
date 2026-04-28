@@ -1,0 +1,1 @@
+{"title": "MLOps Platform Dashboard", "panels": [{"title": "Pipeline Success Rate", "type": "gauge"}, {"title": "Model Drift Score", "type": "timeseries"}, {"title": "Prediction Latency p99", "type": "timeseries"}, {"title": "Active Models", "type": "stat"}]}
